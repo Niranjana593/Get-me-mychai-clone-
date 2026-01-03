@@ -21,7 +21,7 @@ export default function Home() {
       </div>
       <div className="h-[0.5px] opacity-40 bg-white"></div>
       <div className="text-white my-8  mx-auto mb-10 min-h-[28vh]">
-        <p className="text-2xl font-bold my-4 text-center">Your </p>
+        <p className="text-2xl font-bold my-4 text-center">Your Fan Can Help u Get Chai</p>
         <div className="flex justify-around py-10 my-5">
           <div className="item space-y-3  flex flex-col justify-center items-center">
             <img className="rounded-full p-2 bg-gray-300" width={88} src="/man.gif" alt="" />
