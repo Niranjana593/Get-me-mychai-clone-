@@ -25,7 +25,7 @@ export default function Home() {
         <div className="flex justify-around py-10 my-5">
           <div className="item space-y-3  flex flex-col justify-center items-center">
             <img className="rounded-full p-2 bg-gray-300" width={88} src="/man.gif" alt="" />
-            <p className="px-5  text-center">People wants to help </p>
+            <p className="px-5  text-center">People wants to help you</p>
             <p className="text-center px-3">Your fans are here to help you</p>
           </div>
           <div className="item space-y-3 flex flex-col justify-center items-center">
